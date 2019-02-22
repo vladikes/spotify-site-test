@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="slow_test" timestamp="2019-02-22T20:28:52" time="0.022" tests="2" failures="0" errors="0" skipped="0">
+    <properties>
+      <property name="specId" value="0"/>
+      <property name="suiteName" value="slow test"/>
+      <property name="capabilities" value="chrome"/>
+      <property name="file" value="./test/specs/spotify-api.spec.js"/>
+    </properties>
+    <testcase classname="chrome.slow_test" name="should_return_a_success_status_200" time="0.006"/>
+    <testcase classname="chrome.slow_test" name="should_contain_element" time="0.012"/>
+  </testsuite>
+</testsuites>

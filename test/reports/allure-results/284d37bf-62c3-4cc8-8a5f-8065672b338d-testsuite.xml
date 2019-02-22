@@ -1,0 +1,43 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1550857577642' stop='1550857583802'>
+    <name>spotify.com login page</name>
+    <title>spotify.com login page</title>
+    <test-cases>
+        <test-case start='1550857577642' status='broken' stop='1550857583802'>
+            <name>should allow user to login </name>
+            <title>should allow user to login </title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-1'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>no such window: target window already closed
+                from unknown error: web view not found
+                  (Session info: chrome=71.0.3578.98)
+                  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 4.15.0-43-generic x86_64)</message>
+                <stack-trace>Error: no such window: target window already closed
+                from unknown error: web view not found
+                  (Session info: chrome=71.0.3578.98)
+                  (Driver info: chromedriver=2.43.600233 (523efee95e3d68b8719b3a1c83051aa63aa6b10d),platform=Linux 4.15.0-43-generic x86_64)
+                    at getErrorFromResponseBody (/home/adam/spotify_sanity/node_modules/webdriver/build/utils.js:342:10)
+                    at Request._callback (/home/adam/spotify_sanity/node_modules/webdriver/build/request.js:116:64)
+                    at Request.self.callback (/home/adam/spotify_sanity/node_modules/request/request.js:185:22)
+                    at Request.&lt;anonymous> (/home/adam/spotify_sanity/node_modules/request/request.js:1161:10)
+                    at IncomingMessage.&lt;anonymous> (/home/adam/spotify_sanity/node_modules/request/request.js:1083:12)
+                    at Browser.findElement (/home/adam/spotify_sanity/node_modules/webdriverio/build/utils.js:355:94)
+                    at Browser.$ (/home/adam/spotify_sanity/node_modules/webdriverio/build/commands/browser/$.js:65:40)
+                    at global.$.selector (/home/adam/spotify_sanity/node_modules/@wdio/runner/build/index.js:211:36)
+                    at SearchPage.$ [as playBarContent] (/home/adam/spotify_sanity/test/pageobjects/spotify-search.page.js:12:39)
+                    at SearchPage.playBarContent [as waitForSearchPageToLoad] (/home/adam/spotify_sanity/test/pageobjects/spotify-search.page.js:27:16)
+                    at SearchPage.waitForSearchPageToLoad [as search] (/home/adam/spotify_sanity/test/pageobjects/spotify-search.page.js:41:12)
+                    at Context.search (/home/adam/spotify_sanity/test/specs/spotify-search.spec.js:14:16)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

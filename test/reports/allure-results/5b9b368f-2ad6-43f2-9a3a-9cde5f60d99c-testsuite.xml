@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1550856407896' stop='1550856407913'>
+    <name>GET https://api.spotify.com/v1/playlists/tracks</name>
+    <title>GET https://api.spotify.com/v1/playlists/tracks</title>
+    <test-cases>
+        <test-case start='1550856407898' status='broken' stop='1550856407908'>
+            <name>respond with json containing a list of all playlist tracks</name>
+            <title>respond with json containing a list of all playlist tracks</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Cannot read property 'address' of undefined</message>
+                <stack-trace>TypeError: Cannot read property 'address' of undefined
+                    at Test.serverAddress (/home/adam/spotify_sanity/node_modules/supertest/lib/test.js:55:18)
+                    at new Test (/home/adam/spotify_sanity/node_modules/supertest/lib/test.js:36:12)
+                    at Object.obj.(anonymous function) [as get] (/home/adam/spotify_sanity/node_modules/supertest/index.js:25:14)
+                    at Context.get (/home/adam/spotify_sanity/test/specs/spotify-api.spec.js:7:14)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

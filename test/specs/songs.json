@@ -1,0 +1,636 @@
+{
+  "href" : "https://api.spotify.com/v1/playlists/5KuPjPP50y2gbC7Yv6mun2/tracks?offset=0&limit=100",
+  "items" : [ {
+    "added_at" : "2019-02-22T17:15:10Z",
+    "added_by" : {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/ir10q0ac024ok4r27w4bz2mq7"
+      },
+      "href" : "https://api.spotify.com/v1/users/ir10q0ac024ok4r27w4bz2mq7",
+      "id" : "ir10q0ac024ok4r27w4bz2mq7",
+      "type" : "user",
+      "uri" : "spotify:user:ir10q0ac024ok4r27w4bz2mq7"
+    },
+    "is_local" : false,
+    "primary_color" : null,
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6reTSIf5MoBco62rk8T7Q1",
+        "id" : "6reTSIf5MoBco62rk8T7Q1",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/512acb5faa3eec4e312e96541c5cf85b1b1b9ebb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ea1affe473af862c35ba567c59138ce8455b3eaf",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/da21b1ab3ac8a5af3e491af55a10528472394e4f",
+          "width" : 64
+        } ],
+        "name" : "Hot Space (2011 Remaster)",
+        "release_date" : "1982-05-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:6reTSIf5MoBco62rk8T7Q1"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "disc_number" : 1,
+      "duration_ms" : 252133,
+      "episode" : false,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71103445"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/3S1RgaEOY4JxjIIS0kt5Nu"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/3S1RgaEOY4JxjIIS0kt5Nu",
+      "id" : "3S1RgaEOY4JxjIIS0kt5Nu",
+      "is_local" : false,
+      "name" : "Staying Power - Remastered 2011",
+      "popularity" : 41,
+      "preview_url" : null,
+      "track" : true,
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:3S1RgaEOY4JxjIIS0kt5Nu"
+    },
+    "video_thumbnail" : {
+      "url" : null
+    }
+  }, {
+    "added_at" : "2019-02-22T17:15:16Z",
+    "added_by" : {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/ir10q0ac024ok4r27w4bz2mq7"
+      },
+      "href" : "https://api.spotify.com/v1/users/ir10q0ac024ok4r27w4bz2mq7",
+      "id" : "ir10q0ac024ok4r27w4bz2mq7",
+      "type" : "user",
+      "uri" : "spotify:user:ir10q0ac024ok4r27w4bz2mq7"
+    },
+    "is_local" : false,
+    "primary_color" : null,
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6reTSIf5MoBco62rk8T7Q1",
+        "id" : "6reTSIf5MoBco62rk8T7Q1",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/512acb5faa3eec4e312e96541c5cf85b1b1b9ebb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ea1affe473af862c35ba567c59138ce8455b3eaf",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/da21b1ab3ac8a5af3e491af55a10528472394e4f",
+          "width" : 64
+        } ],
+        "name" : "Hot Space (2011 Remaster)",
+        "release_date" : "1982-05-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:6reTSIf5MoBco62rk8T7Q1"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "disc_number" : 1,
+      "duration_ms" : 230120,
+      "episode" : false,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71103441"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/4ejjjAuVya6bapdTjZE9Lx"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/4ejjjAuVya6bapdTjZE9Lx",
+      "id" : "4ejjjAuVya6bapdTjZE9Lx",
+      "is_local" : false,
+      "name" : "Dancer - Remastered 2011",
+      "popularity" : 40,
+      "preview_url" : null,
+      "track" : true,
+      "track_number" : 2,
+      "type" : "track",
+      "uri" : "spotify:track:4ejjjAuVya6bapdTjZE9Lx"
+    },
+    "video_thumbnail" : {
+      "url" : null
+    }
+  }, {
+    "added_at" : "2019-02-22T17:15:22Z",
+    "added_by" : {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/ir10q0ac024ok4r27w4bz2mq7"
+      },
+      "href" : "https://api.spotify.com/v1/users/ir10q0ac024ok4r27w4bz2mq7",
+      "id" : "ir10q0ac024ok4r27w4bz2mq7",
+      "type" : "user",
+      "uri" : "spotify:user:ir10q0ac024ok4r27w4bz2mq7"
+    },
+    "is_local" : false,
+    "primary_color" : null,
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+          },
+          "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+          "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+          "name" : "Queen",
+          "type" : "artist",
+          "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+        } ],
+        "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/6reTSIf5MoBco62rk8T7Q1"
+        },
+        "href" : "https://api.spotify.com/v1/albums/6reTSIf5MoBco62rk8T7Q1",
+        "id" : "6reTSIf5MoBco62rk8T7Q1",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/512acb5faa3eec4e312e96541c5cf85b1b1b9ebb",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/ea1affe473af862c35ba567c59138ce8455b3eaf",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/da21b1ab3ac8a5af3e491af55a10528472394e4f",
+          "width" : 64
+        } ],
+        "name" : "Hot Space (2011 Remaster)",
+        "release_date" : "1982-05-03",
+        "release_date_precision" : "day",
+        "total_tracks" : 11,
+        "type" : "album",
+        "uri" : "spotify:album:6reTSIf5MoBco62rk8T7Q1"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+        "id" : "1dfeR4HaWDbWqFHLkxsg1d",
+        "name" : "Queen",
+        "type" : "artist",
+        "uri" : "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "disc_number" : 1,
+      "duration_ms" : 275093,
+      "episode" : false,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "GBUM71103438"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/14YQ2SSnv07HZjPP4Ud9mX"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/14YQ2SSnv07HZjPP4Ud9mX",
+      "id" : "14YQ2SSnv07HZjPP4Ud9mX",
+      "is_local" : false,
+      "name" : "Back Chat - Remastered 2011",
+      "popularity" : 43,
+      "preview_url" : null,
+      "track" : true,
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:14YQ2SSnv07HZjPP4Ud9mX"
+    },
+    "video_thumbnail" : {
+      "url" : null
+    }
+  }, {
+    "added_at" : "2019-02-22T17:15:38Z",
+    "added_by" : {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/ir10q0ac024ok4r27w4bz2mq7"
+      },
+      "href" : "https://api.spotify.com/v1/users/ir10q0ac024ok4r27w4bz2mq7",
+      "id" : "ir10q0ac024ok4r27w4bz2mq7",
+      "type" : "user",
+      "uri" : "spotify:user:ir10q0ac024ok4r27w4bz2mq7"
+    },
+    "is_local" : false,
+    "primary_color" : null,
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3jK9MiCrA42lLAdMGUZpwa",
+          "id" : "3jK9MiCrA42lLAdMGUZpwa",
+          "name" : "Anderson .Paak",
+          "type" : "artist",
+          "uri" : "spotify:artist:3jK9MiCrA42lLAdMGUZpwa"
+        } ],
+        "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3rqqwtJE89WoWvMyPTvbZc"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3rqqwtJE89WoWvMyPTvbZc",
+        "id" : "3rqqwtJE89WoWvMyPTvbZc",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/9cafc6cd0162e4926d84f21fffcbb56bc4d681ec",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/5a0feb7fa3449fcea3f956feff2c78784424989f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/159d636567540df3d050bd2e13cb97b19237ea4e",
+          "width" : 64
+        } ],
+        "name" : "Oxnard",
+        "release_date" : "2018-11-16",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:3rqqwtJE89WoWvMyPTvbZc"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3jK9MiCrA42lLAdMGUZpwa",
+        "id" : "3jK9MiCrA42lLAdMGUZpwa",
+        "name" : "Anderson .Paak",
+        "type" : "artist",
+        "uri" : "spotify:artist:3jK9MiCrA42lLAdMGUZpwa"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "disc_number" : 1,
+      "duration_ms" : 282986,
+      "episode" : false,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "ZZOPM1800713"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/0lG7iyNSstVOLV6faMIHdD"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/0lG7iyNSstVOLV6faMIHdD",
+      "id" : "0lG7iyNSstVOLV6faMIHdD",
+      "is_local" : false,
+      "name" : "6 Summers",
+      "popularity" : 65,
+      "preview_url" : "https://p.scdn.co/mp3-preview/12a42675483acadb3005f3cfc1b5c6e28fac67cb?cid=774b29d4f13844c495f206cafdad9c86",
+      "track" : true,
+      "track_number" : 5,
+      "type" : "track",
+      "uri" : "spotify:track:0lG7iyNSstVOLV6faMIHdD"
+    },
+    "video_thumbnail" : {
+      "url" : null
+    }
+  }, {
+    "added_at" : "2019-02-22T17:17:29Z",
+    "added_by" : {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/ir10q0ac024ok4r27w4bz2mq7"
+      },
+      "href" : "https://api.spotify.com/v1/users/ir10q0ac024ok4r27w4bz2mq7",
+      "id" : "ir10q0ac024ok4r27w4bz2mq7",
+      "type" : "user",
+      "uri" : "spotify:user:ir10q0ac024ok4r27w4bz2mq7"
+    },
+    "is_local" : false,
+    "primary_color" : null,
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3jK9MiCrA42lLAdMGUZpwa",
+          "id" : "3jK9MiCrA42lLAdMGUZpwa",
+          "name" : "Anderson .Paak",
+          "type" : "artist",
+          "uri" : "spotify:artist:3jK9MiCrA42lLAdMGUZpwa"
+        } ],
+        "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3rqqwtJE89WoWvMyPTvbZc"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3rqqwtJE89WoWvMyPTvbZc",
+        "id" : "3rqqwtJE89WoWvMyPTvbZc",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/9cafc6cd0162e4926d84f21fffcbb56bc4d681ec",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/5a0feb7fa3449fcea3f956feff2c78784424989f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/159d636567540df3d050bd2e13cb97b19237ea4e",
+          "width" : 64
+        } ],
+        "name" : "Oxnard",
+        "release_date" : "2018-11-16",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:3rqqwtJE89WoWvMyPTvbZc"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3jK9MiCrA42lLAdMGUZpwa",
+        "id" : "3jK9MiCrA42lLAdMGUZpwa",
+        "name" : "Anderson .Paak",
+        "type" : "artist",
+        "uri" : "spotify:artist:3jK9MiCrA42lLAdMGUZpwa"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+        "id" : "2YZyLoL8N0Wb9xBt1NhZWg",
+        "name" : "Kendrick Lamar",
+        "type" : "artist",
+        "uri" : "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "disc_number" : 1,
+      "duration_ms" : 268400,
+      "episode" : false,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "ZZOPM1800659"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/7c3SbTuufigBWURcICnAWy"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/7c3SbTuufigBWURcICnAWy",
+      "id" : "7c3SbTuufigBWURcICnAWy",
+      "is_local" : false,
+      "name" : "Tints (feat. Kendrick Lamar)",
+      "popularity" : 67,
+      "preview_url" : "https://p.scdn.co/mp3-preview/2039bbc54b5ae30b411ea6cc4d9074919d96fa8c?cid=774b29d4f13844c495f206cafdad9c86",
+      "track" : true,
+      "track_number" : 3,
+      "type" : "track",
+      "uri" : "spotify:track:7c3SbTuufigBWURcICnAWy"
+    },
+    "video_thumbnail" : {
+      "url" : null
+    }
+  }, {
+    "added_at" : "2019-02-22T17:17:33Z",
+    "added_by" : {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/ir10q0ac024ok4r27w4bz2mq7"
+      },
+      "href" : "https://api.spotify.com/v1/users/ir10q0ac024ok4r27w4bz2mq7",
+      "id" : "ir10q0ac024ok4r27w4bz2mq7",
+      "type" : "user",
+      "uri" : "spotify:user:ir10q0ac024ok4r27w4bz2mq7"
+    },
+    "is_local" : false,
+    "primary_color" : null,
+    "track" : {
+      "album" : {
+        "album_type" : "single",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3ycxRkcZ67ALN3GQJ57Vig",
+          "id" : "3ycxRkcZ67ALN3GQJ57Vig",
+          "name" : "Masego",
+          "type" : "artist",
+          "uri" : "spotify:artist:3ycxRkcZ67ALN3GQJ57Vig"
+        } ],
+        "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/5DxMTCWwHlaz4Hx1og50xL"
+        },
+        "href" : "https://api.spotify.com/v1/albums/5DxMTCWwHlaz4Hx1og50xL",
+        "id" : "5DxMTCWwHlaz4Hx1og50xL",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/9650f5923c7346c2bb3031898dd32007f94a2d6c",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/96749174ed09a393a7bdfb451200a423cad4be69",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/a38717cb055cc845fc8bdd9f92a8e8544c3d8f1f",
+          "width" : 64
+        } ],
+        "name" : "Navajo",
+        "release_date" : "2017-06-08",
+        "release_date_precision" : "day",
+        "total_tracks" : 1,
+        "type" : "album",
+        "uri" : "spotify:album:5DxMTCWwHlaz4Hx1og50xL"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3ycxRkcZ67ALN3GQJ57Vig",
+        "id" : "3ycxRkcZ67ALN3GQJ57Vig",
+        "name" : "Masego",
+        "type" : "artist",
+        "uri" : "spotify:artist:3ycxRkcZ67ALN3GQJ57Vig"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "disc_number" : 1,
+      "duration_ms" : 194157,
+      "episode" : false,
+      "explicit" : false,
+      "external_ids" : {
+        "isrc" : "QM24S1702110"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/6zWU7YALeEDMcPGhKKZJhV"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/6zWU7YALeEDMcPGhKKZJhV",
+      "id" : "6zWU7YALeEDMcPGhKKZJhV",
+      "is_local" : false,
+      "name" : "Navajo",
+      "popularity" : 68,
+      "preview_url" : "https://p.scdn.co/mp3-preview/0af41374a88228498da21f5a577258e8ce9ef875?cid=774b29d4f13844c495f206cafdad9c86",
+      "track" : true,
+      "track_number" : 1,
+      "type" : "track",
+      "uri" : "spotify:track:6zWU7YALeEDMcPGhKKZJhV"
+    },
+    "video_thumbnail" : {
+      "url" : null
+    }
+  }, {
+    "added_at" : "2019-02-22T17:17:34Z",
+    "added_by" : {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/user/ir10q0ac024ok4r27w4bz2mq7"
+      },
+      "href" : "https://api.spotify.com/v1/users/ir10q0ac024ok4r27w4bz2mq7",
+      "id" : "ir10q0ac024ok4r27w4bz2mq7",
+      "type" : "user",
+      "uri" : "spotify:user:ir10q0ac024ok4r27w4bz2mq7"
+    },
+    "is_local" : false,
+    "primary_color" : null,
+    "track" : {
+      "album" : {
+        "album_type" : "album",
+        "artists" : [ {
+          "external_urls" : {
+            "spotify" : "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+          },
+          "href" : "https://api.spotify.com/v1/artists/3jK9MiCrA42lLAdMGUZpwa",
+          "id" : "3jK9MiCrA42lLAdMGUZpwa",
+          "name" : "Anderson .Paak",
+          "type" : "artist",
+          "uri" : "spotify:artist:3jK9MiCrA42lLAdMGUZpwa"
+        } ],
+        "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/album/3rqqwtJE89WoWvMyPTvbZc"
+        },
+        "href" : "https://api.spotify.com/v1/albums/3rqqwtJE89WoWvMyPTvbZc",
+        "id" : "3rqqwtJE89WoWvMyPTvbZc",
+        "images" : [ {
+          "height" : 640,
+          "url" : "https://i.scdn.co/image/9cafc6cd0162e4926d84f21fffcbb56bc4d681ec",
+          "width" : 640
+        }, {
+          "height" : 300,
+          "url" : "https://i.scdn.co/image/5a0feb7fa3449fcea3f956feff2c78784424989f",
+          "width" : 300
+        }, {
+          "height" : 64,
+          "url" : "https://i.scdn.co/image/159d636567540df3d050bd2e13cb97b19237ea4e",
+          "width" : 64
+        } ],
+        "name" : "Oxnard",
+        "release_date" : "2018-11-16",
+        "release_date_precision" : "day",
+        "total_tracks" : 14,
+        "type" : "album",
+        "uri" : "spotify:album:3rqqwtJE89WoWvMyPTvbZc"
+      },
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3jK9MiCrA42lLAdMGUZpwa",
+        "id" : "3jK9MiCrA42lLAdMGUZpwa",
+        "name" : "Anderson .Paak",
+        "type" : "artist",
+        "uri" : "spotify:artist:3jK9MiCrA42lLAdMGUZpwa"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6l3HvQ5sa6mXTsMTB19rO5",
+        "id" : "6l3HvQ5sa6mXTsMTB19rO5",
+        "name" : "J. Cole",
+        "type" : "artist",
+        "uri" : "spotify:artist:6l3HvQ5sa6mXTsMTB19rO5"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "disc_number" : 1,
+      "duration_ms" : 323586,
+      "episode" : false,
+      "explicit" : true,
+      "external_ids" : {
+        "isrc" : "ZZOPM1800719"
+      },
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/track/2lRe5wBRm4xaSKTbDn2vLD"
+      },
+      "href" : "https://api.spotify.com/v1/tracks/2lRe5wBRm4xaSKTbDn2vLD",
+      "id" : "2lRe5wBRm4xaSKTbDn2vLD",
+      "is_local" : false,
+      "name" : "Trippy (feat. J. Cole)",
+      "popularity" : 68,
+      "preview_url" : "https://p.scdn.co/mp3-preview/b4fe1c7bd768319f78780c8513af538e59f3fbf5?cid=774b29d4f13844c495f206cafdad9c86",
+      "track" : true,
+      "track_number" : 11,
+      "type" : "track",
+      "uri" : "spotify:track:2lRe5wBRm4xaSKTbDn2vLD"
+    },
+    "video_thumbnail" : {
+      "url" : null
+    }
+  } ],
+  "limit" : 100,
+  "next" : null,
+  "offset" : 0,
+  "previous" : null,
+  "total" : 7
+}

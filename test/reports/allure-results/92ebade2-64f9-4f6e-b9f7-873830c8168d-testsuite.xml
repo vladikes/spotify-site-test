@@ -1,0 +1,53 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1550858740108' stop='1550858740127'>
+    <name>slow test</name>
+    <title>slow test</title>
+    <test-cases>
+        <test-case start='1550858740110' status='broken' stop='1550858740120'>
+            <name>should return a success status 200</name>
+            <title>should return a success status 200</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>The "urlObject" argument must be one of type Object or string. Received type undefined</message>
+                <stack-trace>TypeError [ERR_INVALID_ARG_TYPE]: The "urlObject" argument must be one of type Object or string. Received type undefined
+                    at urlFormat (url.js:539:11)
+                    at Test.Request (/home/adam/spotify_sanity/node_modules/superagent/lib/node/index.js:137:37)
+                    at new Test (/home/adam/spotify_sanity/node_modules/supertest/lib/test.js:29:11)
+                    at Object.obj.(anonymous function) [as get] (/home/adam/spotify_sanity/node_modules/supertest/index.js:25:14)
+                    at Context.get (/home/adam/spotify_sanity/test/specs/spotify-api.spec.js:39:14)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1550858740123' status='broken' stop='1550858740127'>
+            <name>should contain element</name>
+            <title>should contain element</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='0-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='chrome'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>The "urlObject" argument must be one of type Object or string. Received type undefined</message>
+                <stack-trace>TypeError [ERR_INVALID_ARG_TYPE]: The "urlObject" argument must be one of type Object or string. Received type undefined
+                    at urlFormat (url.js:539:11)
+                    at Test.Request (/home/adam/spotify_sanity/node_modules/superagent/lib/node/index.js:137:37)
+                    at new Test (/home/adam/spotify_sanity/node_modules/supertest/lib/test.js:29:11)
+                    at Object.obj.(anonymous function) [as get] (/home/adam/spotify_sanity/node_modules/supertest/index.js:25:14)
+                    at Context.get (/home/adam/spotify_sanity/test/specs/spotify-api.spec.js:48:7)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

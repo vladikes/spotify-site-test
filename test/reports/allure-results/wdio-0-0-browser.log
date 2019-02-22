@@ -1,0 +1,4 @@
+{"level":"SEVERE","message":"chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED","source":"network","timestamp":1550855533145}
+{"level":"SEVERE","message":"chrome-extension://invalid/ - Failed to load resource: net::ERR_FAILED","source":"network","timestamp":1550855533147}
+{"level":"WARNING","message":"https://www.gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js 56 document.registerElement is deprecated and will be removed in M73, around March 2019. Please use window.customElements.define instead. See https://www.chromestatus.com/features/4642138092470272 for more details.","source":"deprecation","timestamp":1550855533274}
+{"level":"SEVERE","message":"https://www.gstatic.com/cast/sdk/libs/sender/1.0/cast_framework.js 35:1498 Uncaught TypeError: Cannot read property 'AutoJoinPolicy' of undefined","source":"javascript","timestamp":1550855533279}
