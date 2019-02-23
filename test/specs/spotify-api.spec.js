@@ -3,7 +3,7 @@ var assert = require('assert');
 var playlistObj = require("./songs.json");
 
 
-describe('slow test', function() {
+describe('Spotify tracklist api test run', function() {
   
 
   it('should return a success status 200', function(done) {
@@ -15,7 +15,7 @@ describe('slow test', function() {
   })
   
 
-    it('should contain element', function(done) {
+    it('should compare actual and expected json result', function(done) {
 	request
 	    .get('/')
 	    .end(function(err, result) {
